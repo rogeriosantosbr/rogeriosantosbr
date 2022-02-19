@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rogeriosantosbr
-- 👀 I’m interested in Java and Linux 
+- 👀 I’m interested in programming language and ethical hacker 
 - 🌱 I’m currently learning Cloud
 - 💞️ I’m looking to collaborate on Java
 - 📫 How to reach me rogeriosantos.br@gmail.com.br
