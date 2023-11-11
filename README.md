@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rogeriosantosbr
 - 👀 I’m interested in programming language and ethical hacker 
 - 🌱 I’m currently learning Cloud
-- 💞️ I’m looking to collaborate on Java
+- 💞️ I’m looking to collaborate on Java and Python
 - 📫 How to reach me rogeriosantos.br@gmail.com.br
 
 <!---
